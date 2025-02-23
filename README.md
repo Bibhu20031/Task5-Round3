@@ -94,7 +94,7 @@ JWT_SECRET=your_secret_key
 
 
 Start the server:
-npm start
+node index.js
 
 
 API runs at: http://localhost:5000/api/coupons
